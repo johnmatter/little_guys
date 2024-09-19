@@ -43,7 +43,6 @@ function list() {
 
 function clear() {
     if (inlet === 0) {
-        clearFilter();
         filter = {};
     } else {
         post("'clear' command should be sent to left inlet.\n");
