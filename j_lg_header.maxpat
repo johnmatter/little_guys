@@ -53,13 +53,14 @@
 					"fontsize" : 30.0,
 					"gradient" : 1,
 					"id" : "obj-4",
+					"ignoreclick" : 1,
 					"maxclass" : "message",
 					"numinlets" : 2,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
 					"patching_rect" : [ 0.0, 0.0, 292.0, 44.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 0.0, 0.0, 292.0, 44.0 ],
+					"presentation_rect" : [ 0.0, 0.0, 33.0, 44.0 ],
 					"saved_attribute_attributes" : 					{
 						"textcolor" : 						{
 							"expression" : "themecolor.live_play"
@@ -68,7 +69,7 @@
 					}
 ,
 					"text" : "#1",
-					"textcolor" : [ 0.0, 0.980392156862745, 0.63921568627451, 1.0 ]
+					"textcolor" : [ 0.0, 0.827450980392157, 0.552941176470588, 1.0 ]
 				}
 
 			}
