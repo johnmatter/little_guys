@@ -63,13 +63,13 @@
 					"presentation_rect" : [ 0.0, 0.0, 33.0, 44.0 ],
 					"saved_attribute_attributes" : 					{
 						"textcolor" : 						{
-							"expression" : "themecolor.live_play"
+							"expression" : "themecolor.live_control_text_selection"
 						}
 
 					}
 ,
 					"text" : "#1",
-					"textcolor" : [ 0.0, 0.827450980392157, 0.552941176470588, 1.0 ]
+					"textcolor" : [ 0.031372549019608, 0.031372549019608, 0.031372549019608, 1.0 ]
 				}
 
 			}
